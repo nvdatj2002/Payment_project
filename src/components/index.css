@@ -1,0 +1,25 @@
+/* login */
+.form-login {
+    padding: 60px;
+    background-color: #e7e9eb;
+    border-radius: 10px;
+    text-align: left !important;
+}
+
+/* cart */
+.cart {
+    background-color: #e7e9eb;
+    width: 900px;
+    text-align: left;
+    
+}
+h2 {
+    background-color: #fff;
+    margin: 0;
+}
+.cart-item {
+    border-bottom: 1px solid #333;
+}
+.btn-pay {
+    float: right;
+}
